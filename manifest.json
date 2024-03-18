@@ -1,0 +1,17 @@
+{
+  "name": "fetch data",
+  "id": "1350398561526730942",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "networkAccess": {
+    "allowedDomains": ["https://satin-destiny-birch.glitch.me"]
+  },
+  "documentAccess": "dynamic-page"
+}
